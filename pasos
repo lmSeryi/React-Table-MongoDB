@@ -1,0 +1,25 @@
+1. Crear carpeta SRC
+        - app
+        - models
+            -task.js
+        - public
+            -index.html
+        - routes
+            task.routes
+    database.js
+    index.js
+
+2. npm init -y 
+3. npm i moongose
+4. npm i nodemon
+5. npm i express
+6. npm i morgan 
+
+7. crear API
+8. Hacer modelo
+9. Crear rutas
+10. npm i webpack -D
+11. npm i webpack-cli -D
+12. crear archivo webpack.config.js
+13. npm install react react-dom
+npm install -D babel-loader @babel/core @babel/preset-env webpack
